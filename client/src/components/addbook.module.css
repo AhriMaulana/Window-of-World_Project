@@ -1,0 +1,172 @@
+.latar {
+height: 1500px;
+background: #e2e2e2;
+}
+
+.navbar {
+display: flex;
+justify-content: center;
+align-items: center;
+padding-top: 60px;
+height: 100px;
+}
+
+.kanan {
+margin-left: 1600px;
+}
+
+.formGroup {
+margin-left: 450px;
+}
+
+.addForm {
+display: inline-grid;
+}
+
+.head {
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+}
+
+.input {
+font-family: Arial, Helvetica, sans-serif;
+margin-bottom: 40px;
+width: 995px;
+height: 50px;
+background: rgb(255, 255, 255);
+border: 2px solid #BCBCBC;
+box-sizing: border-box;
+border-radius: 5px;
+padding-left: 10px;
+}
+
+.about {
+margin-bottom: 40px;
+padding-left: 10px;
+padding-top: 10px;
+width: 995px;
+height: 207px;
+background: rgb(255, 255, 255);
+border: 2px solid #BCBCBC;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.file {
+display: flex;
+align-items: center;
+width: 155px;
+height: 50px;
+background: rgba(210, 210, 210, 0.25);
+border: 2px solid #BCBCBC;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.fileGroup {
+margin-bottom: 10px;
+font-size: 18px;
+color: #696969;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.fileAttac{
+color: #333333;
+margin-left: 10px;
+font-weight: 400;
+font-size: 14px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.inico {
+width: 10px;
+margin-left: 10px;
+}
+
+.buttonAdd {
+margin-top: 10px;
+margin-left: 850px;
+display: flex;
+align-items: center;
+width: 130px;
+height: 50px;
+background: #FF0000;
+border-radius: 5px;
+}
+
+.tagAdd {
+margin-left: 10px;
+font-weight: 400;
+font-size: 18px;
+color: white;
+}
+
+.addGroup {
+display: flex;
+align-items: center;
+}
+
+.add1 {
+margin-left: 10px;
+width: 20px;
+}
+
+.garis {
+    width: 250px;
+}
+
+.add {
+    align-items: center;
+    display: flex;
+}
+
+.out {
+    align-items: center;
+    display: flex;
+}
+
+.addBook {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.log {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.upload {
+  
+    border: none;
+    background: none;
+}
+
+.tambah{
+    border: none;
+    background: #FF0000;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.input1 {
+margin-bottom: 40px;
+width: 995px;
+background: rgb(255, 255, 255);
+border: 2px solid #BCBCBC;
+box-sizing: border-box;
+border-radius: 5px;
+font-family: Arial, Helvetica, sans-serif;
+padding: 5px;
+color: #000000;
+}

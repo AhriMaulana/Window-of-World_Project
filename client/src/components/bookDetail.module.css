@@ -1,0 +1,284 @@
+.latar {
+height: 1500px;
+display: flex;
+background: #E5E5E5;
+}
+
+.sideBar {
+display: inline;
+}
+
+.wow {
+width: 100px;
+margin-left: 180px;
+margin-top: 30px;
+}
+
+.foto {
+margin-left: 160px;
+width: 150px;
+margin-top: 20px;
+}
+
+.garis {
+margin-top: 10px;
+margin-left: 50px;
+width: 350px;
+color: #C9C9C9;
+}
+
+.name {
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 140px;
+margin-top: 20px;
+font-size: 24px;
+font-weight: 900;
+}
+
+.status {
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 185px;
+margin-top: 0px;
+font-size: 18px;
+font-weight: 800;
+color: #29BD11;
+}
+
+.profile {
+display:flex;
+}
+
+.profico {
+width: 30px;
+height: 30px;
+margin-right: 10px;
+margin-top: 55px;
+margin-left: 50px;
+}
+
+.tagpro {
+border: none;
+background: none;
+font-family: Arial, Helvetica, sans-serif;
+margin-right: 10px;
+margin-top: 55px;
+margin-left: 10px;
+font-size: 25px;
+}
+
+.subscribe {
+display:flex;
+}
+
+.bilico {
+width: 30px;
+height: 30px;
+margin-right: 10px;
+margin-top: 65px;
+margin-left: 50px;
+}
+
+.tagsub {
+border: none;
+background: none;
+font-family: Arial, Helvetica, sans-serif;
+margin-right: 10px;
+margin-top: 65px;
+margin-bottom: 65px;
+margin-left: 10px;
+font-size: 25px;
+}
+
+.outMenu {
+display:flex;
+}
+
+.logout {
+margin-top: 50px;
+width: 30px;
+height: 30px;
+margin-right: 10px;
+margin-left: 50px;
+}
+
+.tagout {
+border: none;
+background: none;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 50px;
+margin-right: 10px;
+margin-left: 10px;
+font-size: 25px;
+}
+
+.content {
+    margin-left: 300px;
+}
+
+.contentUp {
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 120px;
+    
+}
+
+.bookDetail {
+    width: 400px;
+    height: 540px;
+    border-radius: 10px;
+}
+
+.kanan {
+    margin-left: 50px;
+}
+
+.header {
+    font-family: Times New Roman;
+    font-weight: bold;
+    font-size: 64px;
+    margin-bottom: 0px;
+    line-height: 120.5%;
+}
+
+.pengarang {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin-top: 0px;
+    color: #929292;
+    line-height: 101.5%;
+    margin-bottom: 60px;
+}
+
+.date {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 120.5%;
+}
+.dateDetail {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: 0px;
+    color: #929292;
+    line-height: 101.5%;
+    margin-bottom: 40px;
+}
+
+.page {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 120.5%;
+}
+
+.pageDetail {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: 0px;
+    color: #929292;
+    line-height: 101.5%;
+    margin-bottom: 40px;
+}
+
+.isbn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-weight: 600;
+    font-size: 24px;
+    color: #D60000;
+    line-height: 120.5%;
+}
+
+.isbnDetail {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: 0px;
+    color: #929292;
+    line-height: 101.5%;
+}
+
+.down {
+    
+}
+
+.h1 {
+    font-family: Times New Roman;
+    font-weight: bold;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+.detail {
+    width: 1000px;
+    text-align: justify;
+    font-size: 18px;
+    margin-bottom: 80px;
+}
+
+.buttonGroup {
+    margin-left: 710px;
+    display: flex;
+}
+
+.buttonAdd {
+display: flex;
+margin-right: 30px;
+align-items: center;
+width: 130px;
+height: 50px;
+background: #FF0000;
+border-radius: 5px;
+}
+
+.tagAdd {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 14px;
+color: rgb(255, 255, 255);
+margin-bottom: 30px;
+}
+
+.addGroup {
+padding-left: 10px;
+padding-top: 15px;
+display: flex;
+align-items: center;
+}
+
+.add {
+margin-left: 15px;
+width: 15px;
+margin-bottom: 15px;
+}
+
+.buttonRead {
+margin-right: 30px;
+align-items: center;
+width: 130px;
+height: 50px;
+background: rgba(205, 205, 205, 0.7);
+border-radius: 5px;
+}
+
+.readGroup {
+display: flex;
+align-items: center;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 14px;
+color: rgb(0, 0, 0);
+}
+
+.tagRead {
+padding-left: 10px;
+padding-top: 5px;
+}
+
+.read {
+padding-top: 5px;
+margin-left: 15px;
+width: 20px;
+height: 15px;
+}

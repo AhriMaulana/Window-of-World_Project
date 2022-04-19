@@ -1,0 +1,53 @@
+.back {
+background: #E5E5E5;
+height: 929px;
+}
+
+.latar {
+ position: absolute;
+width: 1920px;
+height: 929px;
+left: 0px;
+}
+
+.icon {
+width: 480px;
+margin-left: 110px;
+margin-top: 80px;
+}
+
+.content{
+margin-left: 110px;
+font-size: 24px;
+font-weight: 500;
+}
+
+.signIn {
+position: absolute;
+width: 190px;
+height: 50px;
+background: rgba(205, 205, 205, 0.7);
+border-radius: 5px;
+border: hidden;
+margin-left: 250px;
+font-size: 18px;
+font-weight: 500;
+color: rgb(0, 0, 0);
+}
+
+.signUp {
+position: absolute;
+width: 190px;
+height: 50px;
+background: #D60000;
+border-radius: 5px;
+border: hidden;
+font-size: 18px;
+font-weight: 500;
+color: white;
+}
+
+.text1 {
+margin-left: 0px;
+margin-bottom: 50px;
+}

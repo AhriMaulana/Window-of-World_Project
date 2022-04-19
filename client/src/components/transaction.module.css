@@ -1,0 +1,79 @@
+.latar {
+    height: 2000px;
+    background: #E5E5E5;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 60px;
+    height: 100px;
+}
+
+.kanan {
+    margin-left: 1600px;
+}
+
+.garis {
+    width: 200px;
+}
+
+.add {
+    align-items: center;
+    display: flex;
+}
+
+.out {
+    align-items: center;
+    display: flex;
+}
+
+.addBook {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.log {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+
+.table {
+    margin-top: 200px;
+    margin-left: 400px;
+    width: 1159px;
+    height: 512px;
+}
+
+.tbody {
+    
+}
+
+.trow {
+    
+}
+
+.drop {
+    text-align: center;
+}
+
+.button {
+    background: none;
+    border: none;
+    align-items: center;
+    color: #0ACF83;
+    margin-bottom: 20px;
+}
+
+.button1 {
+    background: none;
+    border: none;
+    margin-left: 5px;
+    color: #FF0000;
+}
